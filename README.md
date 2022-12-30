@@ -19,10 +19,8 @@
   <a href="https://github.com/Masoud-Khosravi">
     <img src="https://github-readme-stats.vercel.app/api?username=masoud-khosravi&show_icons=true&hide=issues,contribs&theme=react&hide_border=true" />
   <!---  
-    <img src="https://github-stats-alpha.vercel.app/api?username=masoud-khosravi&cc=22272e&tc=37BCF6&ic=fff&bc=0000" />
-    
-    
--->
+    <img src="https://github-stats-alpha.vercel.app/api?username=masoud-khosravi&cc=22272e&tc=37BCF6&ic=fff&bc=0000" />    
+  -->
     
   </a>
   
