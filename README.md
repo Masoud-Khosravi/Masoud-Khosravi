@@ -26,7 +26,7 @@
 
 ### 🖥️ Open-Source Projects
 <table>
-<tr><th>Python </th></tr>
+<tr><th>Python <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a> </th></tr>
 <tr><td>
   
 |Title | Technologies | Comments|
