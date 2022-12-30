@@ -28,7 +28,8 @@
 <table>
 <tr><th>Python </th></tr>
 <tr><td>
-
+|Title | Stars | Technologies|
+|--|--|--|
 
   
   
