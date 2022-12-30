@@ -32,7 +32,7 @@
 
   
   
-</td><td>
+</td></tr> </table>
 <br/>
 
 <h3 align="left">Languages and Tools:</h3>
