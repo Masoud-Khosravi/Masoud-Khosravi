@@ -23,6 +23,13 @@
 </p>
 
 <br/>
+
+### 🖥️ Open-Source Projects
+<table>
+<tr><th>Python </th></tr>
+<tr><td>
+
+
 <br/>
 
 <h3 align="left">Languages and Tools:</h3>
