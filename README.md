@@ -29,10 +29,13 @@
 <tr><th>Python </th></tr>
 <tr><td>
   
-|Title | Stars | Technologies|
+|Title | Technologies | Comments|
 |--|--|--|
-| [SQL-Python](https://github.com/Masoud-Khosravi/SQL-Python) | <img alt="Stars" src="https://img.shields.io/github/stars/Masoud-Khosravi/SQL-Python?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
-  
+| [SQL-Python](https://github.com/Masoud-Khosravi/SQL-Python) | ![SQL](https://img.shields.io/badge/SQL-black?style=flat-square&logo=microsoft-sql-server)| tozih |
+| [Tensorflow-Covid-19](https://github.com/Masoud-Khosravi/Tensorflow-Covid-19) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)| tozih
+| [Machine-Learning](https://github.com/Masoud-Khosravi/Machine-Learning) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)| tozih |
+| [Stock-Markets](https://github.com/Masoud-Khosravi/Stock-Markets) | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)| Read data and trade in stock markets
+
 </td></tr> </table>
 <br/>
 
