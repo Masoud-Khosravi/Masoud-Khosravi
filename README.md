@@ -7,8 +7,9 @@
 
 <p align="center">
   <a
-  <h3 >Connect with me::</h3>
+  <h3 >Connect with me:</h3>  
   </a>
+  <br/>
   
   <a href="https://www.linkedin.com/in/masoudkhosravi/">
       <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
