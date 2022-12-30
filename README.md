@@ -5,21 +5,17 @@
   <img src="https://user-images.githubusercontent.com/121137036/210107231-0ae2f150-bb07-4e53-a2e2-a006b9b799e4.gif" alt="drawing" style="width:600px;"/>
 </a>
 
-<a href="https://github.com/Masoud-Khosravi">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=masoud-khosravi&label=Visitors&color=0e75b6&style=flat" alt="masoud-khosravi" /> </p>
-</a>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/masoudkhosravi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="masoudkhosravi" height="30" width="40" /></a>
-</p>
-
 </a>  
 <a href="https://www.linkedin.com/in/masoudkhosravi/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 <a href="mailto:masoudkh.new@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
+<a href="https://github.com/Masoud-Khosravi">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=masoud-khosravi&label=Visitors&color=0e75b6&style=flat" alt="masoud-khosravi" /> </p>
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
