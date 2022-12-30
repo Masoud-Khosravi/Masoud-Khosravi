@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Masoud Khosravi</h1>
 <h3 align="center">A passionate developer</h3>
 
+<img src="https://user-images.githubusercontent.com/121137036/210107231-0ae2f150-bb07-4e53-a2e2-a006b9b799e4.gif" alt="drawing" style="width:600px;"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masoud-khosravi&label=Profile%20views&color=0e75b6&style=flat" alt="masoud-khosravi" /> </p>
 
 <h3 align="left">Connect with me:</h3>
