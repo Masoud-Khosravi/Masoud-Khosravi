@@ -6,17 +6,18 @@
 </a>
 
 <p align="center">
-Connect with me:
-</a>  
-<a href="https://www.linkedin.com/in/masoudkhosravi/">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
-</a>
-<a href="mailto:masoudkh.new@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
-</a>
-<a href="https://github.com/Masoud-Khosravi">
-   <img src="https://komarev.com/ghpvc/?username=masoud-khosravi&label=Visitors&color=0e75b6&style=flat" alt="masoud-khosravi" />
-</a>
+  <h3 >Connect with me::</h3>
+
+  </a>  
+  <a href="https://www.linkedin.com/in/masoudkhosravi/">
+      <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+  </a>
+  <a href="mailto:masoudkh.new@gmail.com">
+      <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/Masoud-Khosravi">
+     <img src="https://komarev.com/ghpvc/?username=masoud-khosravi&label=Visitors&color=0e75b6&style=flat" alt="masoud-khosravi" />
+  </a>
 
 </p>
 
