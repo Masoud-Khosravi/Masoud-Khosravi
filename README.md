@@ -33,8 +33,8 @@
 |--|--|--|
 | [SQL-Python](https://github.com/Masoud-Khosravi/SQL-Python) | ![SQL](https://img.shields.io/badge/SQL-black?style=flat-square&logo=microsoft-sql-server)| Working with SQL in Python |
 | [Tensorflow-Covid-19](https://github.com/Masoud-Khosravi/Tensorflow-Covid-19) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)| check the covid-19 dataset and make the Tensorflow machine learning algorithm |
-| [Machine-Learning](https://github.com/Masoud-Khosravi/Machine-Learning) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)| we Learn about some models of machine learnings |
-| [Stock-Markets](https://github.com/Masoud-Khosravi/Stock-Markets) | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)| Read data and trade in stock markets
+| [Machine-Learning](https://github.com/Masoud-Khosravi/Machine-Learning) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![SK_Learn](https://img.shields.io/badge/SK_Learn-black?style=flat-square&logo=scikit-learn) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![Numpy](https://img.shields.io/badge/Numpy-black?style=flat-square&logo=numpy)| we Learn about some models of machine learnings |
+| [Stock-Markets](https://github.com/Masoud-Khosravi/Stock-Markets) | ![Seaborn](https://img.shields.io/badge/Seaborn-black?style=flat-square&logo=seaborn) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![Numpy](https://img.shields.io/badge/Numpy-black?style=flat-square&logo=numpy)| Read data and trade in stock markets
 
 </td></tr> </table>
 <br/>
