@@ -31,10 +31,12 @@
   
 |Title | Technologies | Comments|
 |--|--|--|
-| [SQL-Python](https://github.com/Masoud-Khosravi/SQL-Python) | ![SQL](https://img.shields.io/badge/SQL-black?style=flat-square&logo=microsoft-sql-server)| Working with SQL in Python |
+| [SQL-Python](https://github.com/Masoud-Khosravi/SQL-Python) | ![SQL](https://img.shields.io/badge/SQL-black?style=flat-square&logo=microsoft-sql-server) ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) <a href="https://docs.python.org/3/library/tk.html" target="_blank" rel="noreferrer"> <img src="https://github.com/aaryanrlondhe/aaryanrlondhe/raw/main/e508febfbc11.jpg" alt="tkinter" width="45" height="25" /> </a> | Working with SQL in Python |
 | [Tensorflow-Covid-19](https://github.com/Masoud-Khosravi/Tensorflow-Covid-19) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="20" height="20" /> </a> ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![Numpy](https://img.shields.io/badge/Numpy-black?style=flat-square&logo=numpy) | Covid-19 dataset vs Tensorflow|
 | [Machine-Learning](https://github.com/Masoud-Khosravi/Machine-Learning) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![SK_Learn](https://img.shields.io/badge/SK_Learn-black?style=flat-square&logo=scikit-learn) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![Numpy](https://img.shields.io/badge/Numpy-black?style=flat-square&logo=numpy)| Review of some machine learnings models|
 | [Stock-Markets](https://github.com/Masoud-Khosravi/Stock-Markets) | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![Numpy](https://img.shields.io/badge/Numpy-black?style=flat-square&logo=numpy) <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="30" height="25" /> </a>  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="25" height="25" /> </a> | Read data and trade in stock markets
+
+ 
 
   
 </td></tr> </table>
