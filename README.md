@@ -31,9 +31,9 @@
   
 |Title | Technologies | Comments|
 |--|--|--|
-| [SQL-Python](https://github.com/Masoud-Khosravi/SQL-Python) | ![SQL](https://img.shields.io/badge/SQL-black?style=flat-square&logo=microsoft-sql-server)| tozih |
-| [Tensorflow-Covid-19](https://github.com/Masoud-Khosravi/Tensorflow-Covid-19) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)| tozih
-| [Machine-Learning](https://github.com/Masoud-Khosravi/Machine-Learning) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)| tozih |
+| [SQL-Python](https://github.com/Masoud-Khosravi/SQL-Python) | ![SQL](https://img.shields.io/badge/SQL-black?style=flat-square&logo=microsoft-sql-server)| Working with SQL in Python |
+| [Tensorflow-Covid-19](https://github.com/Masoud-Khosravi/Tensorflow-Covid-19) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)| check the covid-19 dataset and make the Tensorflow machine learning algorithm |
+| [Machine-Learning](https://github.com/Masoud-Khosravi/Machine-Learning) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)| we Learn about some models of machine learnings |
 | [Stock-Markets](https://github.com/Masoud-Khosravi/Stock-Markets) | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)| Read data and trade in stock markets
 
 </td></tr> </table>
