@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 <a href="https://github.com/Masoud-Khosravi">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=masoud-khosravi&label=Visitors&color=0e75b6&style=flat" alt="masoud-khosravi" /> </p>
+   <img src="https://komarev.com/ghpvc/?username=masoud-khosravi&label=Visitors&color=0e75b6&style=flat" alt="masoud-khosravi" />
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
