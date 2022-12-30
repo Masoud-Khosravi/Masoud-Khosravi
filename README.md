@@ -20,7 +20,7 @@
   </a>
   <br/>
   <a href="https://github.com/Masoud-Khosravi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=masoud-khosravi&show_icons=true&locale=en&hide=contribs,prs" alt="Masoud-Khosravi" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=masoud-khosravi&show_icons=true&locale=en&hide=contribs,prs&theme=react" alt="Masoud-Khosravi" />
   </a>
 </p>
 
