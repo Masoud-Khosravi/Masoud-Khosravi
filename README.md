@@ -28,10 +28,10 @@
 <table>
 <tr><th>Python </th></tr>
 <tr><td>
+  
 |Title | Stars | Technologies|
 |--|--|--|
-
-  
+| [SQL-Python](https://github.com/Masoud-Khosravi/SQL-Python) | <img alt="Stars" src="https://img.shields.io/github/stars/Masoud-Khosravi/SQL-Python?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
   
 </td></tr> </table>
 <br/>
