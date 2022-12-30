@@ -17,9 +17,7 @@
      <img src="https://komarev.com/ghpvc/?username=masoud-khosravi&label=Visitors&color=0e75b6&style=flat" alt="masoud-khosravi" />
   </a>
 
-
-
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masoud-khosravi&show_icons=true&locale=en&hide=contribs,prs" alt="Masoud-Khosravi" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=masoud-khosravi&show_icons=true&locale=en&hide=contribs,prs" alt="Masoud-Khosravi" />
 
 </p>
 
