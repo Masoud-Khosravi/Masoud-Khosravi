@@ -16,7 +16,7 @@
   <a href="https://github.com/Masoud-Khosravi">
      <img src="https://komarev.com/ghpvc/?username=masoud-khosravi&label=Visitors&color=0e75b6&style=flat" alt="masoud-khosravi" />
   </a>
-
+  <br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=masoud-khosravi&show_icons=true&locale=en&hide=contribs,prs" alt="Masoud-Khosravi" />
 
 </p>
