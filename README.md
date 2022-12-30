@@ -9,19 +9,19 @@
 
 <p align="center">
 <br/>
-  <a href="https://www.linkedin.com/in/masoudkhosravi/">
-      <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
-  </a>
-  <a href="mailto:masoudkh.new@gmail.com">
-      <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/Masoud-Khosravi">
-     <img src="https://komarev.com/ghpvc/?username=masoud-khosravi&label=Visitors&color=0e75b6&style=flat" alt="Masoud-Khosravi" />
-  </a>
-  
-  <a href="https://github.com/Masoud-Khosravi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=masoud-khosravi&cc=22272e&tc=37BCF6&ic=fff&bc=0000&hide=contribs,prs" alt="Masoud-Khosravi" />
-  </a>
+<a href="https://www.linkedin.com/in/masoudkhosravi/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="mailto:masoudkh.new@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
+<a href="https://github.com/Masoud-Khosravi">
+   <img src="https://komarev.com/ghpvc/?username=masoud-khosravi&label=Visitors&color=0e75b6&style=flat" alt="Masoud-Khosravi" />
+</a>
+
+<a href="https://github.com/Masoud-Khosravi">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=masoud-khosravi&cc=22272e&tc=37BCF6&ic=fff&bc=0000&hide=contribs,prs" alt="Masoud-Khosravi" />
+</a>
   
 </p>
 
