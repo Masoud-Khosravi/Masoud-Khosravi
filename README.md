@@ -6,7 +6,7 @@
 </a>
 
 <p align="center">
-<h3 align="left">Connect with me:</h3>
+Connect with me:
 </a>  
 <a href="https://www.linkedin.com/in/masoudkhosravi/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
