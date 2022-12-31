@@ -40,24 +40,12 @@
 | [Machine-Learning](https://github.com/Masoud-Khosravi/Machine-Learning) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![SK_Learn](https://img.shields.io/badge/SK_Learn-black?style=flat-square&logo=scikit-learn) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![Numpy](https://img.shields.io/badge/Numpy-black?style=flat-square&logo=numpy)| Review of some machine learnings models|
 | [Stock-Markets](https://github.com/Masoud-Khosravi/Stock-Markets) | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![Numpy](https://img.shields.io/badge/Numpy-black?style=flat-square&logo=numpy) <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="30" height="25" /> </a>  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="25" height="25" /> </a> <a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank" rel="noreferrer"> <img src="https://awaisarif.com/img/oop.png" alt="OOP" width="50" height="30" /> </a>| Read data and trade in stock markets
 
- 
-
   
 </td></tr> </table>
 <br/>
-
-
-<p align="center">
-  <a href="https://github.com/Masoud-Khosravi">
-    
-    ![contributions](https://user-images.githubusercontent.com/121137036/210119277-eda98111-b4d9-470b-84fe-6de468b11825.svg)
-    
-  </a>
-
-    
-  
-</p>
-
   
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<a href="https://github.com/Masoud-Khosravi">
+<img src="https://user-images.githubusercontent.com/121137036/210119277-eda98111-b4d9-470b-84fe-6de468b11825.svg" alt="drawing" />
+  </a>
