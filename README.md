@@ -15,7 +15,6 @@
   <a href="mailto:masoudkh.new@gmail.com">
       <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
   </a>
-  </a>
   <a href="https://hub.docker.com/repositories/masoudnew">
       <img src="https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=Docker&logoColor=white">
   </a>
