@@ -18,6 +18,10 @@
   <a href="https://hub.docker.com/r/masoudnew/sqlite">
       <img src="https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=Docker&logoColor=white">
   </a>
+  </a>
+  <a href="https://t.me/Masoudnew">
+      <img src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white">
+  </a>
   <a href="https://github.com/Masoud-Khosravi">
      <img src="https://komarev.com/ghpvc/?username=masoud-khosravi&label=Visitors&color=0e75b6&style=flat" alt="Masoud-Khosravi" />
   </a>
